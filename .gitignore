@@ -1,6 +1,5 @@
 
-*.ipynb
-
+.ipynb_checkpoints
 twitter_token.txt
 
 
